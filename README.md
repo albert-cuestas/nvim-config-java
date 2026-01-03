@@ -33,7 +33,9 @@ Works on **macOS**.
 
 - **Neovim**
 - **LazyVim**
-- **LazyVim extras**: `lang.java` enabled
+- **LazyVim extras**:
+  - `lang.java` enabled
+  - `dap.core` enabled
 - Installed **JDKs** you want to use (11/17/21/25, etc.)
 
 > Important note: this configuration uses `/usr/libexec/java_home`, which is **macOS-specific**.  
